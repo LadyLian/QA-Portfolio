@@ -20,7 +20,9 @@ Postman
 
 ### Expected Result
 Status Code: 200
+
 Order ID returned
+
 Response contains:
 - order_id  
 - status  
