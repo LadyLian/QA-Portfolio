@@ -61,6 +61,7 @@ so that I can keep my personal life private from certain people.
 
 ## 📸 Jira Example
 
-![Hide Story Jira](assets/images/user_story_1.png)
+![Hide Story Jira](../../assets/images/user_story_1.png)
 
-![Hide Story Jira](assets/images/user_story_2.png)
+---
+![Hide Story Jira](../../assets/images/user_story_2.png)
