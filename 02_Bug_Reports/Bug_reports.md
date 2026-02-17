@@ -59,6 +59,7 @@ Name field accepts invalid input without validation in the contact form.
 1. Go to https://pulse-gym.com.ua/
 2. Click on the contact form icon in the lower-left corner of the screen
 3. Enter an invalid name in the `<Name>` field, which containing special characters or numbers (e.g. 123@@)
+
 ---
 
 ## Expected Result
@@ -68,6 +69,7 @@ The `<Name>` field should display a validation error message and indicate invali
 
 ## Actual Result
 The form accepts invalid input in the `<Name>` field and no error message is displayed.
+
 ---
 
 ## Environment
@@ -107,6 +109,7 @@ Club list is not displayed when switching from `<СПИСКОМ>` to `<НА КА
 
 ## Expected Result
 The map is displayed on the page and clubs marked on the map.
+
 ---
 
 ## Actual Result
