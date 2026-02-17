@@ -49,4 +49,5 @@ Examples of structured bug reports with:
 
 ## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/liliia-dymytriieva-0854aa1b1/
+
 Email: Ladylian10@gmail.com
