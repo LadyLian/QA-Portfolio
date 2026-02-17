@@ -1,12 +1,12 @@
 # 🐞 Bug Report XS11-40
 
 ## Summary
-Menu items are not highlighted when using the Tab key.
+Menu items are not highlighted when using the `<Tab>` key.
 
 ---
 
 ## Description
-When the user presses Tab key, none of the menu items are highlighted.
+When the user presses `<Tab>` key, none of the menu items are highlighted.
 
 ---
 
@@ -17,12 +17,12 @@ When the user presses Tab key, none of the menu items are highlighted.
 ---
 
 ## Expected Result
-Menu items are highlighted when using Tab key
+Menu items are highlighted when using `<Tab>` key
 
 ---
 
 ## Actual Result
-- None of the menu items are highlighted when using Tab key
+- None of the menu items are highlighted when using `<Tab>` key
 - The browser status bar shows a link change, but no element is highlighted.
 
 ---
@@ -42,7 +42,7 @@ Low
 
 ![Test_Case Jira](../assets/images/bug_report.png)
 
-![Test_Case Jira](../assets/images/bug_report_1_img.png)
+![Test_Case Jira](../assets/images/beg_report_1_img.png)
 
 ---
 
@@ -94,7 +94,7 @@ Low
 # 🐞 Bug Report XS11-43
 
 ## Summary
-Club list is not displayed when switching from <СПИСКОМ> to <НА КАРТІ> view.
+Club list is not displayed when switching from `<СПИСКОМ>` to `<НА КАРТІ>` view.
 
 ---
 
