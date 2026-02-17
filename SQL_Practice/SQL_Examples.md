@@ -16,7 +16,7 @@ It demonstrates basic knowledge of:
 # CREATE TABLE
 
 ```sql
-CREATE TABLE Liliia_Plisko (
+CREATE TABLE Liliia_Dymytriieva (
   ID int PRIMARY KEY AUTO_INCREMENT,
   Name varchar(50) NOT NULL,
   Phone varchar(15) NOT NULL,
